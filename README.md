@@ -42,6 +42,8 @@ https://coding.imooc.com/class/chapter/116.html#Anchor
 - https://github.com/ChoicesWang/RecyclerView_Divider
 - https://github.com/niorgai/StatusBarCompat
 - https://github.com/google/auto/tree/master/value
+- https://github.com/permissions-dispatcher/PermissionsDispatcher
+- https://github.com/Yalantis/uCrop
 
 #### 扩展视频：
 - okhttp框架解析与应用：https://www.imooc.com/learn/732
