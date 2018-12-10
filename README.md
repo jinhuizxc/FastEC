@@ -35,8 +35,8 @@ https://coding.imooc.com/class/chapter/116.html#Anchor
 - https://github.com/facebook/stetho
 - https://github.com/square/javapoet
 - https://github.com/google/auto
- - https://github.com/google/auto/tree/master/service
- - https://github.com/google/auto/tree/master/common
+	- https://github.com/google/auto/tree/master/service
+	- https://github.com/google/auto/tree/master/common
 - https://github.com/CymChad/BaseRecyclerViewAdapterHelper
 - https://github.com/bumptech/glide
 - https://github.com/ChoicesWang/RecyclerView_Divider
