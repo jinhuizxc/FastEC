@@ -28,8 +28,17 @@ https://coding.imooc.com/class/chapter/116.html#Anchor
 - https://github.com/square/okhttp
 - https://github.com/square/retrofit
 - https://github.com/81813780/AVLoadingIndicatorView
+- https://github.com/Bigkoo/Android-ConvenientBanner
+- https://github.com/alibaba/fastjson
+- https://github.com/orhanobut/logger
+- https://github.com/greenrobot/greenDAO
+- https://github.com/facebook/stetho
+- https://github.com/square/javapoet
+- https://mvnrepository.com/artifact/com.google.auto.service/auto-service
+- https://mvnrepository.com/artifact/com.google.auto/auto-common
 
 #### 扩展视频：
 - okhttp框架解析与应用：https://www.imooc.com/learn/732
 - Android网络框架-OkHttp使用：https://www.imooc.com/learn/764
 - Android必学-AsyncTask基础：https://www.imooc.com/learn/377
+- Android框架-GreenDao：https://www.imooc.com/learn/760
