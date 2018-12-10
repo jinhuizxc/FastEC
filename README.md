@@ -34,8 +34,13 @@ https://coding.imooc.com/class/chapter/116.html#Anchor
 - https://github.com/greenrobot/greenDAO
 - https://github.com/facebook/stetho
 - https://github.com/square/javapoet
-- https://mvnrepository.com/artifact/com.google.auto.service/auto-service
-- https://mvnrepository.com/artifact/com.google.auto/auto-common
+- https://github.com/google/auto
+> https://github.com/google/auto/tree/master/service
+> https://github.com/google/auto/tree/master/common
+- https://github.com/CymChad/BaseRecyclerViewAdapterHelper
+- https://github.com/bumptech/glide
+- https://github.com/ChoicesWang/RecyclerView_Divider
+- https://github.com/niorgai/StatusBarCompat
 
 #### 扩展视频：
 - okhttp框架解析与应用：https://www.imooc.com/learn/732
